@@ -5,5 +5,7 @@ together.
 
 # ANNOTATIONS USED BY DAGGER 2
 • @Module and @Provides
+
 • @Inject
+
 • @Components
