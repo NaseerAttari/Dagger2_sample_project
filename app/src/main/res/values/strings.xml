@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestDaggerMvpExample</string>
+    <string name="last_pushed">Last Pushed %s</string>
+</resources>
